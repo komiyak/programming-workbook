@@ -56,13 +56,13 @@
 
 __変更前のエレメント__
 
-```
+```xml
 <title>XML Developer's Guide</title>
 ```
 
 __変更後のエレメント__
 
-```
+```xml
 <title>
    <name>XML Developer's Guide</name>
    <lang>English</lang>
@@ -84,6 +84,6 @@ timezone='utc'
 ```
 
 出力例：
-```
+```xml
 <publish_date timezone='utc'>2000-11-17</publish_date>
 ```
